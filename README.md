@@ -249,6 +249,13 @@ Further analysis could use a larger dataset, leakage-safe pipelines, repeated cr
 
 ## 8. Project Files and Deliverables
 
+### Project File Links
+
+- [Plotly Dash Application](spaceX/spacex-dash-app.py)
+- [Dashboard Analysis Script](spaceX/spacex_dashboard_analysis.py)
+- [Dashboard Dataset](spaceX/spacex_launch_dash.csv)
+
+
 The repository contains notebooks, datasets and scripts covering:
 
 - SpaceX API data collection
