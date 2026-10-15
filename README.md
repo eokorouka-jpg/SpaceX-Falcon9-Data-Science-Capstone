@@ -268,6 +268,28 @@ The repository contains notebooks, datasets and scripts covering:
 
 **Dashboard application:** Run the Plotly Dash Python application locally with the required CSV dataset.
 
+
+## Project Visualisations
+
+### 1. Plotly Dash — Landing Success by Launch Site
+
+![SpaceX Landing Success Dashboard](spaceX/SpaceX_AllSites.png)
+
+The pie chart shows each launch site's share of all successful first-stage landings.
+
+### 2. Plotly Dash — Payload Mass and Landing Outcomes
+
+![SpaceX Payload Analysis](spaceX/SpaceX_Chart_AllSites.png)
+
+The scatter plot explores payload mass, booster version and landing outcomes.
+
+### 3. Folium — Launch Site Geographical Analysis
+
+![SpaceX Folium Map](spacex_folium_proximity.png.png)
+
+The map displays selected geographical points and straight-line distances from CCAFS LC-40.
+
+
 ## 9. Conclusion
 
 This SpaceX Falcon 9 Data Science Capstone demonstrates an end-to-end analytical workflow, combining data collection, preparation, exploratory analysis, interactive visualisation and predictive modelling.
