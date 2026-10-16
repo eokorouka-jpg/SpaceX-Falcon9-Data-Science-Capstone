@@ -255,7 +255,7 @@ Further analysis could use a larger dataset, leakage-safe pipelines, repeated cr
 - [Dashboard Analysis Script](spaceX/spacex_dashboard_analysis.py)
 - [Dashboard Dataset](spaceX/spacex_launch_dash.csv)
 - [Machine Learning Prediction Notebook](SpaceX_Machine%20Learning%20Prediction.ipynb)
-- [Final SpaceX Capstone Presentation (PDF)](SpaceX_Capstone_IBM_Project.pdf)
+- [Final SpaceX Capstone Presentation (PDF)](SpaceX_Capstone_Project.pdf)
 
 The repository contains notebooks, datasets and scripts covering:
 
